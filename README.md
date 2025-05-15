@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumuk007.sumuk&style=flat-square&label=Visitors&icon=eye" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sumuk007.sumuk&style=flat&label=Visitors&labelColor=444&color=0db7ed" alt="Visitor Badge" />
 </p>
 
 ---
