@@ -68,7 +68,7 @@ I’m skilled in both frontend and backend development and always eager to learn
   <a href="https://www.instagram.com/__sumuk__bhat__" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  #<a href="https://your-portfolio-link.com" target="_blank">
+  [//]: # <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" />
   </a>
 </p>
