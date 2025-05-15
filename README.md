@@ -58,20 +58,17 @@ I’m skilled in both frontend and backend development and always eager to learn
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sumuk-7a45b9346" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-
+<p align="center">
   <a href="mailto:sumukbhat007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-
+  <a href="https://www.linkedin.com/in/sumuk-7a45b9346" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
   <a href="https://www.instagram.com/__sumuk__bhat__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" alt="Portfolio" />
   </a>
 </p>
