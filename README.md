@@ -49,7 +49,10 @@ I’m skilled in both frontend and backend development and always eager to learn
 
 ## 🧠 Daily Dev Quote
 
-> _"{{quote}}"_
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
 
 ---
 
