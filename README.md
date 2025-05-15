@@ -12,7 +12,8 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate software developer who enjoys building web apps and tools that solve real-world problems. I'm always exploring new technologies, frameworks, and ideas.
+I'm a passionate software developer who enjoys building web apps and tools that solve real-world problems.  
+I’m skilled in both frontend and backend development and always eager to learn new technologies.
 
 ---
 
@@ -70,6 +71,16 @@ I'm a passionate software developer who enjoys building web apps and tools that 
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- [Portfolio](https://your-portfolio-link.com)
-- Email: your.email@example.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
