@@ -27,8 +27,7 @@ I’m skilled in both frontend and backend development and always eager to learn
 
 ## 📂 Featured Projects
 
-- **[ReelNinja](https://github.com/Sumuk007/ReelNinja)**  
-  Instagram reel and audio downloader
+- **[ReelNinja](https://github.com/Sumuk007/ReelNinja)**- Instagram reel and audio downloader
 
 ---
 
