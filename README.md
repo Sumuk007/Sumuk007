@@ -20,21 +20,15 @@ I’m skilled in both frontend and backend development and always eager to learn
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,django,bootstrap,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,django,bootstrap,github" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-- **[ReelNinja](https://github.com/YOUR_USERNAME/ReelNinja)**  
+- **[ReelNinja](https://github.com/Sumuk007/ReelNinja)**  
   Instagram reel and audio downloader
-
-- **Old Age Home Website**  
-  Designed for accessible elderly care support and service
-
-- **Artist Portfolio Website**  
-  Custom drawing orders and portfolio display for artists
 
 ---
 
@@ -57,7 +51,7 @@ I’m skilled in both frontend and backend development and always eager to learn
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sumuk-7a45b9346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
@@ -65,11 +59,11 @@ I’m skilled in both frontend and backend development and always eager to learn
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto sumukbhat007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/__sumuk__bhat__?igsh=MWdtOXhiN3Y0YTZmMA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
