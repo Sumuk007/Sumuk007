@@ -16,7 +16,7 @@ I'm a passionate software developer who enjoys building web apps and tools that 
 I’m skilled in both frontend and backend development and always eager to learn new technologies.
 
 <p align="left">
-<a href="https://sumuk.vercel.app"> Visit My Portfolio</a>
+<a href="https://sumuk.vercel.app" target="_blank"> Visit My Portfolio</a>
 </p>
 
 ---
