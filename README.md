@@ -15,7 +15,7 @@
 I'm a passionate software developer who enjoys building web apps and tools that solve real-world problems.  
 I’m skilled in both frontend and backend development and always eager to learn new technologies.
 
-[Visit My Portfolio]((https://sumuk.me/))
+[Visit My Portfolio]([https://sumuk.me/])
 
 
 ---
